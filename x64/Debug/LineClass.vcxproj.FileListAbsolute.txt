@@ -1,0 +1,2 @@
+D:\Student\Semester_2\ООП\LL3\x64\Debug\LineClass.exe
+D:\Student\Semester_2\ООП\LL3\x64\Debug\LineClass.pdb

@@ -1,0 +1,5 @@
+﻿  Line.cpp
+  main.cpp
+D:\Student\Semester_2\ООП\LL3\main.cpp(11,21): warning C4101: msg: неиспользованная локальная переменная
+  Создание кода...
+  LineClass.vcxproj -> D:\Student\Semester_2\ООП\LL3\x64\Debug\LineClass.exe
